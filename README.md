@@ -10,11 +10,16 @@
 
 ## Stacks de Estudo
 
-<div style="display: inline_block"> 
-<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-<img align="center" alt="powrbi" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-original.svg">
+<div>
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=py,kali,postgresql,git,github,figma" />
+  </a>
+</div>
+
+  
 </div>
 
 ##
 
   <a href="https://www.linkedin.com/in/bernardo-costa-lopes-86a52621b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
