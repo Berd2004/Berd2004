@@ -1,7 +1,7 @@
 #Olá🖐!
 
 > Me chamo Bernardo Costa Lopes, sou um jovem amante da tecnologia fascinado pela área de CyberSecurity,
-> área na qual venho estudando para me desenvolver e conseguir ingressar na área.
+> área na qual venho estudando para me desenvolver e conseguir atuar na mesma.
 
 ##
 
